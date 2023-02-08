@@ -19,16 +19,14 @@ Users : Education department and its Head of the Departments.
 
 Expected Outcomes : Focused interventions on the high dropout rates.
 
-Impact : Lowered dropout rates.
-![image](https://user-images.githubusercontent.com/91895577/211487986-d95d43c2-b70e-4a80-b1e9-53af981b9d3d.png)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Technologies used:-**
 
-Technologies used:-
-
-Back-End Development:
+**Back-End Development:**
 Java
 JDBC
 
-Database:
+**Database:**
 MySql
 
